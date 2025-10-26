@@ -14,7 +14,7 @@ export const themeConfig: ThemeConfig = {
     // author name
     author: 'slow_quan',
     // site url
-    url: 'https://localhost:4321',//'https://slowquan.github.io',
+    url: 'https://slowquan.github.io',
     // base path
     // root directory for all pages and assets
     base: '/', // e.g., '/blog', '/docs'
